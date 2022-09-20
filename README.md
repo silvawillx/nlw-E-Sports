@@ -6,7 +6,7 @@
 
 Projeto  construído do evento Next Level Week da Rocketseat
 
-[Clique aqui para acesssar](link)
+[Clique aqui para acesssar](https://silvawillx.github.io/nlw-E-Sports/)
 # Tecnologias
 
 - HTML
@@ -15,3 +15,4 @@ Projeto  construído do evento Next Level Week da Rocketseat
 ## contato
 
 @emersonwillian2020@gmail.com
+instagram: @silvawillx
