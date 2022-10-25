@@ -1,7 +1,5 @@
 # NLW eSport 
 
-![preview](./.github/preview.png0
-
 > Trilha Expolorer
 
 Projeto  construído do evento Next Level Week da Rocketseat
